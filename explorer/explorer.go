@@ -18,7 +18,7 @@ func MapFiles(dir string) []string {
 	}
 
 	if dir == "" {
-		root += "/Downloads/Test"
+		root += "/Ransom"
 	} else {
 		root += dir
 	}
